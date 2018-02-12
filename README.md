@@ -7,7 +7,6 @@ Sistema informático de análisis de incidencias formado por dos modulos:
 
 ![foto](https://user-images.githubusercontent.com/35923796/36105672-87c339da-1015-11e8-8da8-fea19e86ff75.jpg)
 
-- - - -
 
 ## Participantes ##
 
@@ -53,5 +52,3 @@ Estos son los autores de la version inicial de proyecto el curso 2016-2017.
 + Darío Alonso Díaz.
 
 + Jonathan Vallés Robla.
-
-- - - -
