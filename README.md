@@ -52,3 +52,7 @@ Estos son los autores de la version inicial de proyecto el curso 2016-2017.
 + Darío Alonso Díaz.
 
 + Jonathan Vallés Robla.
+
+## Documentacion ##
+
+En este [archivo](https://unioviedo-my.sharepoint.com/:w:/g/personal/uo251317_uniovi_es/ETHUdS_GyjNHiUy6GJEVLPoB6QVrTnqh-6XOqBtsLwIL5w?e=cE5Ztd) podra ver toda la informacion referente a la documentacion de este proyecto.
