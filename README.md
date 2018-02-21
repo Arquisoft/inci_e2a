@@ -1,15 +1,15 @@
-# Sistema de Gestion de Incidencias #
+# Sistema de Gestión de Incidencias #
 
-## Documentacion ##
+## Documentacin ##
 
-En este [archivo](https://unioviedo-my.sharepoint.com/:w:/g/personal/uo251317_uniovi_es/ETHUdS_GyjNHiUy6GJEVLPoB6QVrTnqh-6XOqBtsLwIL5w?e=cE5Ztd) podra ver toda la informacion referente a la documentacion de este proyecto en un unico archivo.
-La documentación tambien esta disponible en la [wiki](https://github.com/Arquisoft/inci_e2a/wiki) de este repositorio.
+En este [archivo](https://unioviedo-my.sharepoint.com/:w:/g/personal/uo251317_uniovi_es/ETHUdS_GyjNHiUy6GJEVLPoB6QVrTnqh-6XOqBtsLwIL5w?e=cE5Ztd) podrá ver toda la información referente a la documentación de este proyecto en un único archivo.
+La documentación también está disponible en la [wiki](https://github.com/Arquisoft/inci_e2a/wiki) de este repositorio.
 
 ## Autores ##
 
-Estos son los autores de la version del proyecto del curso 2017-2018.
+Estos son los autores de la versión del proyecto del curso 2017-2018.
 
-+ Jesus García Minas.
++ Jesús García Minas.
 > [@JesusGarciaMinas](https://github.com/JesusGarciaMinas)
 
 > UO250999
@@ -44,7 +44,7 @@ Estos son los autores de la version del proyecto del curso 2017-2018.
 
 > @UO251561
 
-Estos son los autores de la version inicial del proyecto del curso 2016-2017.
+Estos son los autores de la versión inicial del proyecto del curso 2016-2017.
 
 + Sergio Flórez Vallina.
 + Rubén García Ruiz. 
