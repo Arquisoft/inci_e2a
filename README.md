@@ -35,7 +35,7 @@ Estos son los autores de la version del proyecto del curso 2017-2018.
 > @UO251017
 
 + Fernando De la Torre Cueva.
-> [@UO251561](https://github.com/ferpobe)
+> [@Ferpobe](https://github.com/ferpobe)
 
 > @UO245182
 
