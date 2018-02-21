@@ -1,6 +1,6 @@
 # Sistema de Gestión de Incidencias #
 
-## Documentacin ##
+## Documentación ##
 
 En este [archivo](https://unioviedo-my.sharepoint.com/:w:/g/personal/uo251317_uniovi_es/ETHUdS_GyjNHiUy6GJEVLPoB6QVrTnqh-6XOqBtsLwIL5w?e=cE5Ztd) podrá ver toda la información referente a la documentación de este proyecto en un único archivo.
 La documentación también está disponible en la [wiki](https://github.com/Arquisoft/inci_e2a/wiki) de este repositorio.
