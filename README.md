@@ -93,7 +93,7 @@ Por otro lado, en este repositorio se adjunta un fichero **despliegue.bat** que 
 2.	Ejecuta los diferentes submódulos de forma ordenada y en diferentes subprocesos.
 
 Este proceso tardará unos minutos, pero una vez finalizado podrá acceder a cada uno de los submódulos a través de los siguientes enlaces:
-| [Agents](http://localhost:8070) | [InciManager](http://localhost:8085) | [InciDashboard](http://localhost:8090) |
-| : - | : - | : - |
+|[Agents](http://localhost:8070) | [InciManager](http://localhost:8085) | [InciDashboard](http://localhost:8090) |
+|--|--|--|
 
 Si se quiere probar toda la bateria de test se ejecutaria el archivo **bateriaTest.bat** que realizaría los mismo pasos que el despliegue pero con los test.
