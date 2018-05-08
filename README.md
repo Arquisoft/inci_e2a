@@ -88,6 +88,7 @@ No se encuentra desplegado ya que su utilidad se basa en que un administrador ca
 
 ## Despliegue ##
 Dentro de cada uno de los repositorios tiene la información necesaria para desplegar cada módulo de manera individual. Esta forma manual esta pensada para usuarios que quieran ver el funcionamiento de cada modulo por lo que la guía esta preparada para usuarios con sistemas Windows.
+
 Por otro lado, en este repositorio se adjunta un fichero **despliegue.bat** que se encargará de todo. Este modulo realiza las siguientes tareas:
 1.	Comprueba que cada submódulo descargado es la última versión disponible.
 2.	Ejecuta los diferentes submódulos de forma ordenada y en diferentes subprocesos.
@@ -97,4 +98,4 @@ Este proceso tardará unos minutos, pero una vez finalizado podrá acceder a cad
 |[Agents](http://localhost:8070) | [InciManager](http://localhost:8085) | [InciDashboard](http://localhost:8090) |
 |--|--|--|
 
-Si se quiere probar toda la bateria de test se ejecutaria el archivo **bateriaTest.bat** que realizaría los mismo pasos que el despliegue pero con los test.
+Si se quiere probar toda la bateria de test se ejecutaria el archivo **bateriaTest.bat** que realizaría los mismo pasos que el de despliegue pero con los test.
