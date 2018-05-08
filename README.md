@@ -84,7 +84,7 @@ El prototipo de este proyecto se encuentra desplegado para su libre acceso. En e
 * [Datos de entrada](https://github.com/Arquisoft/InciDashboard_e2a/blob/master/README.md#DatosEntrada)
 
 ### Loader ###
-No se encuentra desplegado ya que su utilidad se basa en que un administrador cargue un fichero de vez en cuando no datos.
+No se encuentra desplegado ya que su utilidad se basa en que un administrador cargue un fichero de vez en cuando.
 
 ## Despliegue ##
 Dentro de cada uno de los repositorios tiene la información necesaria para desplegar cada módulo de manera individual. Esta forma manual esta pensada para usuarios que quieran ver el funcionamiento de cada modulo por lo que la guía esta preparada para usuarios con sistemas Windows.
