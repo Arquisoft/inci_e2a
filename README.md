@@ -87,9 +87,11 @@ El prototipo de este proyecto se encuentra desplegado para su libre acceso. En e
 No se encuentra desplegado ya que su utilidad se basa en que un administrador cargue un fichero de vez en cuando.
 
 ## Despliegue ##
-Dentro de cada uno de los repositorios tiene la información necesaria para desplegar cada módulo de manera individual. Esta forma manual esta pensada para usuarios que quieran ver el funcionamiento de cada modulo por lo que la guía esta preparada para usuarios con sistemas Windows.
+Dentro de cada uno de los repositorios tiene la información necesaria para desplegar cada módulo de manera individual. Esta forma manual esta pensada para usuarios que quieran ver el funcionamiento de cada modulo por lo que la guía esta preparada para usuarios con sistemas Windows. Por otro lado, en este repositorio se explicaran los datos necesarios para desplegar la aplicacion en un sistema Linux.
 
-Por otro lado, en este repositorio se adjunta un fichero **despliegue.bat** que se encargará de comprobar que cada submódulo descargado es la última versión disponible y si no es asi descargarla. Una vez terminado de ejecutar el archivo es necesario ejecutar en tres terminales distintos el comando **mvn spring-boot:run** en los siguientes directorios:
+Lo primero es disponer de una versión de Java y Maven funcionando en el sistema. Para ello siga el siguiente [tutorial](https://www.vultr.com/docs/how-to-install-apache-maven-on-ubuntu-16-04).
+
+Una vez completado el tutorial puede ejecutar el archivo que se adjunta con el repositorio: **despliegue.sh** que se encargará de comprobar que cada submódulo descargado es la última versión disponible y si no es asi actualizarlos. Una vez terminado de ejecutar el archivo es necesario ejecutar en tres terminales distintos el comando **mvn spring-boot:run** en los siguientes directorios:
 1. ~/inci_e2a/Agents_e2a
 2. ~/inci_e2a/InciManager_e2a
 3. ~/inci_e2a/InciDashboard_e2a
