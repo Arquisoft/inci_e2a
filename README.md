@@ -72,15 +72,15 @@ Estos son los autores de la versión que se tomó como esqueleto para este proye
 El prototipo de este proyecto se encuentra desplegado para su libre acceso. En el caso de que quiera acceder a los submódulos haga clic en los siguientes enlaces:
 
 ### Agents ###
-* [Link](http://35.180.34.205:8070)
+* [Link](http://35.180.109.178:8070)
 * [Datos de entrada](https://github.com/Arquisoft/Agents_e2a/blob/master/README.md#DatosEntrada)
 
 ### InciManager ###
-* [Link](http://52.47.153.181:8085)
+* [Link](http://35.180.111.3:8085)
 * [Datos de entrada](https://github.com/Arquisoft/InciManager_e2a/blob/master/README.md#DatosEntrada)
 
 ### InciDashboard ###
-* [Link](http://35.180.43.248:8090)
+* [Link](http://35.180.61.232:8090)
 * [Datos de entrada](https://github.com/Arquisoft/InciDashboard_e2a/blob/master/README.md#DatosEntrada)
 
 ### Loader ###
